@@ -1,1 +1,1 @@
-let totalCart = 0;
+let totalCart = 50;
